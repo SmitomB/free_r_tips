@@ -66,4 +66,4 @@ mpg %>%
 
 Get the [Free R-Tips](https://mailchi.mp/business-science/r-tips-newsletter)!
 
-![](images/tues_r_tips.jpg){width="509"}
+![](images/tues_r_tips.jpg){width="508"}
